@@ -1,0 +1,937 @@
+
+Aalborg	
+Aalesund	
+Aarhus	
+Abbotsford
+Aberdeen 	
+Abidjan	
+Abilene
+Abu Dhabi	
+Abuja	
+Acapulco	
+Accra	
+Adana	
+Addis Ababa	
+Adelaide
+Aden	
+Adiyaman	
+Agadir	
+Agana	
+Aguadilla	
+Aguascalientes	
+Ahe
+Ahmedabad	
+Ajaccio
+Akita	
+Akron
+Alamosa
+Albany
+Albany
+Albenga
+Albuquerque
+Albury
+Alexandria	
+Alexandria	
+Alexandria
+Alexandroupolis	
+Alghero
+Algiers	
+Alicante	
+Alice Springs
+Alice Town
+Allentown
+Alliance
+Almaty	
+Almeria	
+Alor Setar
+Alpena
+Altenrhein
+Altoona
+Amarillo
+Amman	
+Amsterdam	
+Anahim Lake
+Anahim Lake
+Anchorage
+Ancona	
+Andros Town	
+Angeles City	
+Angra do Heroismo
+Ankara	
+Annaba	
+Annecy	
+Antalya	
+Antananarivo	
+Antofagasta	
+Antwerp	
+Aomori	
+Aosta	
+Appleton
+Ardabil	
+Arequipa	
+Argostoli
+Arica	
+Arkhangelsk	
+Armidale
+Arrecife
+Arusha	
+Arviat
+Arvidsjaur
+Asheville
+Asmara	
+Aspen
+Astana	
+Asuncion	
+Aswan	
+Athens	
+Athens
+Atlanta
+Atlantic City
+Auckland	
+Augusta
+Augusta
+Austin
+Avarua
+Ayers Rock
+Bacolod	
+Badajoz
+Baghdad	
+Bagotville
+Bagotville
+Baie-Comeau
+Baie-Comeau
+Bakersfield
+Baku	
+Baku	
+Balaton	
+Balephuil	
+Balikpapan
+Ballina
+Balmaceda	
+Baltimore
+Ban Me Thuot	
+Bandar Seri Begawan	
+Bangalore	
+Bangda	
+Bangkok	
+Bangor
+Bangui	
+Banjul	
+Bar Harbor
+Barcelona	
+Bardufoss	
+Bari	
+Barisal	
+Barranquilla	
+Barrow
+Basel	
+Basseterre	
+Bastia
+Bathurst
+Baton Rouge
+Bauru	
+Beaumont
+Beauvais	
+Beckley
+Bedford
+Beef Island, Tortola	
+Beijing	
+Beirut	
+Belem	
+Belfast	Northern
+Belfast	Northern 
+Belgrade	
+Belize City	
+Bellingham, WA
+Belo Horizonte	
+Bemidji, MN
+Benbecula	
+Benguela	
+Bergen	
+Berlin	
+Berne	
+Bethel, AK 	
+Bettles, AK 	
+Biak, Papua	
+Biarritz	
+Bilbao	
+Billings, MT 	
+Billund	
+Binghamton, NY 
+Bintulu, Sarawak	
+Birmingham	
+Birmingham, AL 	
+Bishkek	
+Bismarck, ND 	
+Bissau	
+Blantyre	
+Blenheim	
+Bloemfontein	
+Bloomington, IL 
+Bloomington, IN 	
+Bluefield, WV 	
+Bodo	
+Bogota	
+Boise, ID 	
+Bologna	
+Bolzano	
+Bordeaux	
+Borlange	
+Boston, MA 
+Bozeman, MT 	
+Brasilia	
+Bratislava	
+Brazzaville	
+Bremen	
+Brest	
+Bridgetown	
+Brindisi	
+Brisbane, Qld.	
+Bristol	
+Broken Hill, N.S.W.
+Brookings, SD 	
+Broome, W.A.	
+Brownsville, TX 
+Brunswick, GA
+Brussels	
+Bucharest	
+Budapest	
+Buenos Aires	
+Buffalo, NY 	
+Bujumbura	
+Bulawayo	
+Bundaberg, Qld.	
+Burbank, CA 	
+Buri Ram	
+Burlington, IA 	
+Burlington, MA 	
+Burlington, VT 
+Busan, 
+Butte, MT 
+Butuan	
+Bydgoszcz	
+Caen	
+Cagayan de Oro	
+Cagliari, Sardinia
+Cairns, Qld.	
+Cairo	
+Calcutta	
+Calgary, AB	
+Calgary, AB 	
+Cali	
+Calvi, Corsica	
+Campbell River, 
+Campbell River,
+Campbeltown	
+Campeche	
+Canberra, A.C.T.
+Cancun	
+Cap-aux-Meules, 
+Cap-aux-Meules, Magdalens Islands
+Cape Girardeau, MO 
+Cape Town	
+Caracas	
+Cardiff	
+Carlsbad, 
+Cartagena	
+Casablanca	
+Casper, WY 
+Castlegar, BC	
+Castlegar, BC 	
+Castries	
+Catania
+Cayenne
+Cayman 
+Cebu	
+Cedar Rapids, IA 	
+Ceduna, S.A.
+Champaign
+Changchun
+Changsha	
+Chania, Crete	
+Charleston, SC 	
+Charleston, WV 	
+Charleville, Qld.	
+Charlotte Amalie, St. Thomas	
+Charlotte, NC 	
+Charlottesville, VA 	
+Charlottetown, PEI	
+Charlottetown, PEI 
+Chattanooga, TN 	
+Chengdu	
+Chennai (Madras)	
+Chetumal	
+Cheyenne, WY 
+Chiang Mai	
+Chiang Rai	
+Chibougamau, PQ
+Chibougamau, PQ 	
+Chicago, IL 	
+Chicago, IL 	
+Chicago, IL 	
+Chico, CA 	
+Chihuahua	
+Chios	
+Chisinau	
+Chongqing	
+Christchurch	
+Christiansted, 
+Churchill, MB	
+Churchill, MB 	
+Cincinnati, OH 	
+Ciudad Bolivar	
+Ciudad Del Carmen	
+Ciudad del Este	
+Ciudad Juarez	
+Ciudad Obregon	
+Ciudad Victoria	
+Clarksburg, WV 	
+Clermont-Ferrand	
+Cleveland, OH 	
+Clovis, NM 	
+Cockburn Town,
+Cody, WY 
+Coffs Harbour
+Colima	
+College Station
+Cologne	
+Colombo	
+Colorado Springs
+Columbia
+Conakry	
+Concepcion	
+Connaught	
+Coober Pedy, S.A.	
+Copenhagen	
+Copiapo	
+Cordoba
+Cordova, AK
+Cork	
+Corpus Christi
+Cotabato	
+Cozumel	
+Cranbrook, 
+Crotone	
+Cubi Point Nas	
+Culiacan	
+Curitiba	
+Cusco	
+Da Nang	
+Dakar	
+Dalaman	
+Dali City	
+Dalian	
+Dallas, TX 	
+Damascus	
+Dangriga	
+Dar es Salaam
+Darwin, N.T.	
+Davao	
+Dawadmi	
+Dayong	
+Dayton, OH 	
+Daytona Beach, FL 
+Deadmans Cay,
+Deboyne
+Decatur, IL 	
+Deer Lake, 
+Delhi	
+Denpasar, Bali	
+Denver, CO 	
+Des Moines, IA 
+Detroit, MI 	
+Detroit, MI 	
+Devils Lake, ND 	
+Devonport, Tas
+Dhahran	
+Dhaka	
+Dickinson, ND 	
+Dien-Bien-Phu	
+Dillingham, AK
+Dipolog	
+Djibouti	
+Dnepropetrovsk	
+Dodge City, KS 	
+Doha	
+Doncaster	
+Donetsk	
+Dortmund	
+Dothan, AL 
+Douala		
+Dresden	
+Dryden, ON	
+Dryden, ON 	
+Du Bois, 
+Dubai	
+Dubbo, N.S.W.	
+Dublin	
+Dubrovnik
+Dubuque, IA 	
+Duluth, MN 
+Dumaguete	
+Dunedin	
+Durango	
+Durango, CO 	
+Durban	
+Dushanbe	
+Dusseldorf	
+Dutch Harbor, Un Island, AK
+East London	
+East Midlands	
+Eau Claire, WI 
+Edinburgh	
+Edmonton, AB	
+Eek, AK 	
+Ekaterinburg, 
+El Calafate	
+El Centro, CA 	
+El Dorado, AR 	
+El Paso, TX 	
+El Salvador	
+Elko, NV 	
+Elmira, NY 	
+Emerald, Qld.
+Enid, OK 	
+Entebbe	
+Erfurt	
+Erie, PA 	
+Esbjerg	
+Escanaba, MI 
+Eugene, OR 	
+Eureka, CA	
+Evansville, IN 	
+Evenes	
+Fairbanks, AK 	
+Fargo, ND 	
+Farmington, NM 
+Faro	
+Fayetteville, AR 	
+Fayetteville, NC 	
+Fernando de Noronha
+Figari, Corsica	
+Flagstaff, AZ 	
+Flin Flon, 
+Flin Flon,
+Flint, MI 	
+Florence	
+Florence, SC 	
+Flores	
+Fort Dodge, IA 	
+Fort Lauderdale, FL 	
+Fort Leonard Wood, MO
+Fort McMurray, AB
+Fort McMurray, AB 	
+Fort Myers, FL 	
+Fort Nelson, BC	
+Fort Nelson, BC 	
+Fort Saint John, BC	
+Fort Saint John, BC 	
+Fort Smith, AR 	
+Fort Smith, 
+Fort Walton Beach, FL 
+Fort Wayne
+Fort Yukon
+Fort-de-France	
+Frankfurt	
+Fredericton, NB	
+Fredericton, NB 	
+Freeport, 
+Freetown	
+Fresno, CA 	
+Friedrichshafen	
+Fukuoka	
+Fukushima	
+Funchal	
+Fuzhou	
+Gainesville, FL 	
+Gander, NF	
+Gander, NF 
+Garden City, KS	
+Gaspe, PQ	
+Gaspe, PQ 	
+Gdansk	
+General Santos	
+Geneva	
+Genoa	
+George Town
+Georgetown	
+Georgetown, 
+Gillette, WY 	
+Gisborne	
+Gladstone, Qld.
+Glasgow	
+Glasgow	
+Glendive, MT 	
+Gold Coast, Qld.	
+Gothenburg	
+Gove, N.T.	
+Governor's Harbour, Eleuthera Island	
+Granada	
+Grand Forks, ND 	
+Grand Island, NE 	
+Grand Junction, CO 	
+Grand Rapids, MI 	
+Grande Prairie, AB	
+Grande Prairie, AB 
+Graz	
+Great Bend, KS 
+Great Falls, MT 	
+Green Bay, WI 
+Greenbrier, WV	
+Greensboro, NC 	
+Greenville, MS 
+Greenville, NC 	
+Griffith, N.S.W.	
+Guadalajara
+Guangzhou	
+Guatemala City	
+Guayaquil	
+Guaymas	
+Guernsey	
+Guilin	
+Gulfport, MS 	
+Gunnison, CO 	
+Gustavia	
+Hagerstown, 
+Haikou, 
+Hailar	
+Hakodate	
+Halifax, NS	
+Halifax, NS 	
+Halmstad	
+Hamburg	
+Hamilton	
+Hamilton	
+Hamilton Island
+Hamilton, ON	
+Hamilton, ON 	
+Hammerfest	
+Hana, Maui, HI	
+Hancock, MI 	
+Hanga Roa, Easter Island	
+Hangzhou	
+Hannover	
+Hanoi	
+Harare	
+Harbin	
+Harlingen, TX 	
+Harrisburg, PA 	
+Harrison, AR 	
+Hartford, CT 	
+Hat Yai	
+Haugesund	
+Havana	
+Havre, MT 
+Hays, KS	
+Hefei	
+Helena, MT 	
+Helsingborg	
+Helsinki	
+Hemavan	
+Hengchun
+Heraklion, Crete	
+Hermosillo	
+Hibbing, MN 	
+Hilo, Hawaii 	
+Hilton Head Island, SC 
+Ho Chi Minh City (Saigon)
+Hobart, Tas.	
+Hobbs, NM 	
+Hof	
+Hohhot	
+Hokitika	
+Homer, AK	
+Hong Kong	
+Honiara, Guadalcanal	
+Honolulu, 
+Hoolehua, 
+Horn Island, 
+Hot Springs, 
+Houmt Souk	
+Houston, TX 
+Hue	
+Humberside	
+Huntington, WV 	
+Huntsville, AL 
+Hurghada	
+Huron, SD	
+Hyannis, MA 	
+Hyderabad	
+Ibadan	
+Ibiza	
+Ikaria Island	
+Iloilo	
+Indianapolis
+Innsbruck	
+International Falls
+Invercargill	
+Inverness	
+Inyokern, CA 
+Ioannina	
+Ipoh	
+Iqaluit, Nunavut	
+Iqaluit, Nunavut 	
+Irkutsk, Siberia	
+Iron Mountain, MI 	
+Ironwood, MI	
+Islamabad-Rawalpindi
+Islay Island	
+Islip, NY 	
+Istanbul	
+Istanbul	
+Ithaca, NY 	
+Ivalo	
+Iwami	
+Ixtapa	
+Izmir	
+Izumo	
+Jackson Hole, WY 
+Jackson, MS 
+Jackson, TN 
+Jacksonville, FL 	
+Jacksonville, NC 
+Jakarta, Java	
+Jakarta, Java	
+Jalapa	
+Jamestown,
+Jamestown,
+Jeddah	
+Jeju, 
+Jerez de La Frontera	
+Jersey	
+Jiamusi	
+Jijiga	
+Joensuu	
+Johannesburg	
+Johnstown, PA
+Johor Bahru	
+Jonesboro, AR 
+Jonkoping	
+Joplin, MO
+Juneau, AK 
+Jyvaskyla	
+Kabul	
+Kagoshima	
+Kahului, Maui, HI 	
+Kailua-Kona,
+Kaitaia	
+Kajaani	
+Kalamazoo, 
+Kalaupapa, Molokai
+Kalgoorlie, W.A.
+Kalibo
+Kaliningrad	
+Kalispell, MT 	
+Kalmar	
+Kamloops, BC
+Kamloops
+Kamuela
+Kansas City
+Kaohsiung	
+Kapalua
+Karachi
+Karaganda	
+Karlstad	
+Karratha
+Karup	
+Kashi
+Kathmandu	
+Katowice	
+Kearney
+Kelowna
+Kenai,
+Kenora, ON 	
+Kerikeri	
+Ketchikan, AK 
+Key West, FL 	
+Kharkov	
+Khartoum	
+Khon Kaen	
+Kiel	
+Kiev	
+Kigali	
+Killeen
+King Salmon
+Kingman
+Kingscote
+Kingstow
+Kinshasa	
+Kirksville, MO 	
+Kirkwall, Orkney Islands	
+Kiruna	
+Kisangani	
+Kittila	
+Klagenfurt	
+Klamath Falls, OR 
+Kodiak, AK 
+Koh Samui	
+Komatsu	
+Koror
+Kos	
+Kosrae
+Kota 
+Krabi	
+Krakow	
+Kralendijk	
+Kramfors
+Kristiansand	
+Kristianstad	
+Kuala Lumpur	
+Kuala Terengganu
+Kuantan	
+Kuching, 
+Kumamoto	
+Kunming	
+Kuopio	
+Kushiro	
+Kuwait	
+Kzyl Orda	
+La Coruna	
+La Crosse, WI 
+La Paz	
+La Paz	
+La Romana	
+La Serena	
+Lafayette,
+Lagos	
+Lahad Datu
+Lahore	
+Lake Charles, LA 
+Lake Havasu City
+Lamezia Terme	
+Lanai City,
+Lancaster, PA 
+Langkawi	
+Lannion
+Lansing, MI 	
+Lanzhou	
+Laramie, WY 	
+Laredo, TX 	
+Larnaca	
+Las Cruces, NM 	
+Las Palmas
+Las Vegas, NV 	
+Latrobe, PA 	
+Launceston, Tas.	
+Laurel, MS 
+Lawton, OK 	
+Lazaro Cardenas
+Le Havre	
+Lebanon
+Leeds	
+Legaspi	
+Leipzig	
+Leon	
+Leon	
+Lerwick
+Lethbridge
+Lewiston, 
+Lexington
+Lhasa
+Liberal
+Libreville	
+Lihue
+Lille	
+Lilongwe	
+Limoges
+Lincang	
+Lincoln, 
+Linkoping	
+Linz	
+Lisbon	
+Little Rock,
+Liverpool	
+Ljubljana	
+Logrono	
+Lome	
+London	
+Londonderry	
+Long Banga	
+Long Beach, 
+Longreach, 
+Longview, 
+Longyearbyen
+Loreto	
+Lorient	
+Los Angeles
+Los Cabos	
+Louisville
+Lourdes	
+Luanda	
+Lubbock 
+Lubumbashi	
+Lugano	
+Lugansk	
+Lukla	
+Lulea	
+Lusaka
+Luton	
+Luxembourg	
+Luxor	
+Lycksele	
+Lynchburg, VA 
+Lyon	
+Mackay, Qld.	
+Macon, 
+Madison,
+Madrid	
+Mae Hong Son	
+Magdalens Islands	
+Mahebourg	
+Majuro	
+Mala Mala	
+Malabo, 
+Malaga	
+Male	
+Malmo	
+Malmo	
+Managua	
+Manama	
+Manaus	
+Manchester	
+Manchester, NH 
+Mangrove Cay, 
+Manhattan, KS 
+Manila	
+Manistee, MI 
+Manzanillo	
+Manzini
+Mao, Minorca	
+Maputo	
+Maracaibo	
+Mariehamn,
+Marilia	
+Marion, 
+Mariupol	
+Maroochydore,
+Marquette,
+Marrakech
+Marseille	
+Marsh Harbour
+Martha's Vineyard,
+Maseru	
+Mason City,
+Massena, 
+Matsu	
+Matsuyama	
+Mazatlan	
+McAllen, 
+McCook, 
+Medan, 
+Medellin	
+Medicine 
+Melbourne
+Melilla	
+Memanbetsu	
+Memphis, TN 	
+Mendoza	
+Merida	
+Meridian, MS 	
+Merimbula, N.S.W.	
+Metz	
+Mexicali	
+Mexico City
+Miami, FL 	
+Mian Yang	
+Midland
+Mikonos	
+Milan	
+Mildura, Vic.	
+Miles City
+Milwaukee
+Minneapolis
+Minot
+Minsk	
+Miri, 
+Misawa	
+Missoula
+Miyazaki	
+Mobile
+Modesto
+Mogadishu	
+Moline
+Mombasa	
+Monastir	
+Monclova	
+Moncton
+Monroe
+Monrovia	
+Mont-Joli
+Montego Bay	
+Monterey
+Monterrey	
+Montevideo	
+Montgomery
+Montpellier	
+Montreal
+Mora	
+Moree
+Morelia	
+Morgantown
+Moroni	
+Moruya
+Moscow
+Moscow
+Moscow	
+Moses Lake
+Mount Gambier
+Mount Isa
+Mudanjiang	
+Mulhouse	
+Mulhouse	
+Mulu	
+Mumbai
+Munich	
+Munster	
+Murcia	
+Murmansk	
+Muscat	
+Muscle Shoals
+Muskegon
+Myrtle Beach
+Mytilene
+N'Djamena
+Nadi	
+Nador	
+Nagasaki
+Nagoya
+Nagoya	
+Naha
+Nairobi	
+Nakhon Si Thammarat	
+Nanaimo
+Nanaimo
+Nanchang	
+Nangen	
+Nanjing	
+Nanki 
+Nanning
+Nantes	
+Nantucket
+Napier	
+Naples
+Naples
+Narrabri
+Narrandera
+Narvik	
+Naryan Mar
+Nashville
+Nassau	
+Naze
+Nelson	
+Nelspruit	
+New Bern
+New Haven
+New Orleans
+New York
+Newark
+Newburgh
+Newcastle
+Newman, W.A.	
+Newport News
+Niamey	
+Nice	
+Niigata	
+Ningbo	
+Nizhniy Novgorod	
+Nome, AK 
